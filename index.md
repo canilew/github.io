@@ -1,0 +1,27 @@
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<link rel="stylesheet" href="index.css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<meta charset="utf-8">
+	<title>My test page</title>
+	</head>
+	<body>
+	<h1>Firefox is cool</h1>
+		<img src="images/firefox.png" alt="My test image">
+		<p>At Mozilla, we're a global community of</p>
+
+		<ul> 
+			<li>technologists</li>
+			<li class="special">thinkers</li>
+			<li><em>Builders</em></li>
+		</ul>
+
+		<p class="special">Working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future. </p>
+
+		<p>Read the <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a> to learns even more about the values and principles that guide the pursuit of our mission.</p>
+
+	<button>Change user</button>		
+	<script src="scripts/main.js"></script>	
+	</body>
+	</html>
